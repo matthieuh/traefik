@@ -84,6 +84,7 @@ require (
 	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
+	golang.org/x/tools v0.0.0-20200904185747-39188db58858
 	google.golang.org/grpc v1.27.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
 	gopkg.in/fsnotify.v1 v1.4.7
